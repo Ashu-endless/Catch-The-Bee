@@ -1,0 +1,17 @@
+#HomePage{
+    
+    background: url(https://st.depositphotos.com/1526816/1782/v/950/depositphotos_17820767-stock-illustration-a-beautiful-garden.jpg);
+}
+div#root {
+    display: none;
+    font-family: Helvetica, sans-serif;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    display: block;
+    background-size: cover;
+}
