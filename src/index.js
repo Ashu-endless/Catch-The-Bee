@@ -11,8 +11,8 @@ ReactDOM.render(
   <BrowserRouter>
   <React.StrictMode>
     <Routes>
-      <Route path='' element={<App/>} />
-      <Route path='playground' element={<Playground/>} />
+      <Route path='Catch-The-Bee' element={<App/>} />
+      <Route path='Catch-The-Bee/playground' element={<Playground/>} />
     </Routes>
     {/* <Playground/> */}
   </React.StrictMode>
