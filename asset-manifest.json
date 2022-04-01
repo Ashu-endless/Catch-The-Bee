@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Catch-The-Bee/static/css/main.6573b8ef.css",
-    "main.js": "/Catch-The-Bee/static/js/main.73b6a2f6.js",
+    "main.js": "/Catch-The-Bee/static/js/main.0fdbba07.js",
     "static/js/787.f72d7162.chunk.js": "/Catch-The-Bee/static/js/787.f72d7162.chunk.js",
     "static/media/pgscene1.jpg": "/Catch-The-Bee/static/media/pgscene1.36d37e48406c0bc0d566.jpg",
     "index.html": "/Catch-The-Bee/index.html",
     "main.6573b8ef.css.map": "/Catch-The-Bee/static/css/main.6573b8ef.css.map",
-    "main.73b6a2f6.js.map": "/Catch-The-Bee/static/js/main.73b6a2f6.js.map",
+    "main.0fdbba07.js.map": "/Catch-The-Bee/static/js/main.0fdbba07.js.map",
     "787.f72d7162.chunk.js.map": "/Catch-The-Bee/static/js/787.f72d7162.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6573b8ef.css",
-    "static/js/main.73b6a2f6.js"
+    "static/js/main.0fdbba07.js"
   ]
 }
