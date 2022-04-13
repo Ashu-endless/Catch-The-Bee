@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Catch-The-Bee/static/css/main.89f832af.css",
-    "main.js": "/Catch-The-Bee/static/js/main.8a90fb1f.js",
+    "main.css": "/Catch-The-Bee/static/css/main.61e765c1.css",
+    "main.js": "/Catch-The-Bee/static/js/main.99ea4c81.js",
     "static/js/787.f72d7162.chunk.js": "/Catch-The-Bee/static/js/787.f72d7162.chunk.js",
+    "static/media/LoveGlitch.ttf": "/Catch-The-Bee/static/media/LoveGlitch.a0ed75520d6601886f24.ttf",
     "static/media/pgscene1.jpg": "/Catch-The-Bee/static/media/pgscene1.36d37e48406c0bc0d566.jpg",
     "index.html": "/Catch-The-Bee/index.html",
-    "main.89f832af.css.map": "/Catch-The-Bee/static/css/main.89f832af.css.map",
-    "main.8a90fb1f.js.map": "/Catch-The-Bee/static/js/main.8a90fb1f.js.map",
+    "main.61e765c1.css.map": "/Catch-The-Bee/static/css/main.61e765c1.css.map",
+    "main.99ea4c81.js.map": "/Catch-The-Bee/static/js/main.99ea4c81.js.map",
     "787.f72d7162.chunk.js.map": "/Catch-The-Bee/static/js/787.f72d7162.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89f832af.css",
-    "static/js/main.8a90fb1f.js"
+    "static/css/main.61e765c1.css",
+    "static/js/main.99ea4c81.js"
   ]
 }
